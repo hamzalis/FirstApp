@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         ImageView imageView = findViewById(R.id.imageView);
         imageView.setImageResource(R.drawable.blackspider);
         Button button = findViewById(R.id.button);
-        button.setText("You got the symbiotemmmm");
+        button.setText("You got the symbiote");
     }
 
 
